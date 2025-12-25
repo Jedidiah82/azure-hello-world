@@ -1,0 +1,7 @@
+C:\Users\profj\AzureHelloWorld\HelloWorldWebApp\publish\HelloWorldWebApp.exe
+C:\Users\profj\AzureHelloWorld\HelloWorldWebApp\publish\appsettings.Development.json
+C:\Users\profj\AzureHelloWorld\HelloWorldWebApp\publish\appsettings.json
+C:\Users\profj\AzureHelloWorld\HelloWorldWebApp\publish\HelloWorldWebApp.dll
+C:\Users\profj\AzureHelloWorld\HelloWorldWebApp\publish\HelloWorldWebApp.deps.json
+C:\Users\profj\AzureHelloWorld\HelloWorldWebApp\publish\HelloWorldWebApp.runtimeconfig.json
+C:\Users\profj\AzureHelloWorld\HelloWorldWebApp\publish\HelloWorldWebApp.pdb
